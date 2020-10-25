@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Samantha Freis, B.S.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Colorado Boulder
+  url: "https://www.colorado.edu/ibg/samantha-freis"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include behavioral genetics, individual differences, cognition, & psychopathology
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Behavioral Genetics
+- Individual Differences
+- Environmental Contexts
+- Geospatial Data Analysis & Methods
+- Lifespan Development
+- Cognition
+- Executive Functions 
+- Externalizing Behavior 
+- Substance Use
+- Higher Education & STEM Research Access & Equity
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S. in Psychology
+    institution: The University of Texas at Austin
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:safr7809@colorado.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/samfreis
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ynXWALIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sfreis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Samantha (Sam) Freis is a predoctoral trainee at the Insitute for Behavioral Genetics at the University of Colorado Boulder pursuing a Ph.D. in Behavioral, Psychiatric, and Statistical Genetics in the Psychology and Neuroscience department. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My interests include utilizing behavioral genetic methodologies to examine research questions focused on developmental trajectories and individual differences. I am particularly interested in executive functions and externalizing behavior. Additionally, I utilize geo-data, including census-level and spatial data, to examine specific relationships between environmental contexts and behavioral outcomes. 
+
