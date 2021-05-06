@@ -75,5 +75,5 @@ user_groups:
 
 Samantha (Sam) Freis is a predoctoral trainee at the Insitute for Behavioral Genetics at the University of Colorado Boulder pursuing a Ph.D. in Behavioral, Psychiatric, and Statistical Genetics in the Psychology and Neuroscience department.
 
-My interests include utilizing behavioral genetic and geospatial methods to examine research questions focused on genetic and environmental influences on executive functions and their relations to other cognitive functions, psychopathology, substance use, and self-regulation. 
+My interests include using behavioral genetic and geospatial methods to examine research questions focused on genetic and environmental influences on executive functions and their relations to other cognitive functions, psychopathology, substance use, and self-regulation. 
 
