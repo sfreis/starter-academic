@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Samantha Freis, B.S.
+title: Samantha Freis, M.A.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -35,6 +35,9 @@ education:
   - course: B.S. in Psychology
     institution: The University of Texas at Austin
     year: 2017
+  - course: M.A. in Psychology
+    institution: University of Colorado Boulder
+    year: 2021
 
 
 # Social/Academic Networking
