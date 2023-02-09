@@ -11,7 +11,7 @@ authors:
 - Laurel A. Raffington
 - Aditi Sabhlok
 - Andrew D. Grotzinger
-- Daniel A. Briley
+- D. A. Briley
 - James W. Madole
 - Samantha M. Freis
 - Megan W. Patterson
