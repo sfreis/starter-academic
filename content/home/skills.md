@@ -35,7 +35,7 @@ icon_pack = "fas"
 name = "Quantitative Research"
 
 [[feature]]
-icon = "fa-regular fa-pen-to-square"
+icon = "fa-solid fa-pen"
 icon_pack = "fas"
 name = "Scientific Writing & Communication"
 
