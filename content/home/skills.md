@@ -30,7 +30,7 @@ icon_pack = "fas"
 name = "Psychology & Behavioral Science"
 
 [[feature]]
-icon = "fa-solid fa-magnifying-glass"
+icon = "chart-bar"
 icon_pack = "fas"
 name = "Quantitative Research"
 
