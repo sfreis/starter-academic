@@ -25,7 +25,7 @@ subtitle = ""
   name = "Research & Statistics"
 
 [[feature]]
-icon = "fa-light fa-head-side-brain"
+icon = "fa-solid fa-brain"
 icon_pack = "fas"
 name = "Psychology & Behavioral Science"
 
