@@ -22,7 +22,12 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Research & Statistics"
+
+[[feature]]
+icon = "fa-light fa-head-side-brain"
+icon_pack = "fas"
+name = "Psychology & Behavioral Science"
 
 # Uncomment to use emoji icons.
 # [[feature]]
