@@ -80,3 +80,5 @@ Samantha (Sam) Freis is a predoctoral trainee at the Institute for Behavioral Ge
 
 My interests include using behavioral genetic and geospatial methods to examine research questions focused on genetic and environmental influences on executive functions and their relations to other cognitive functions, psychopathology, substance use, and self-regulation. 
 
+I have a robust data analysis, behavioral science, and research background. Additionally, I have a strong track record of being deadline-driven, organized, and able to multitask and problem-solve in fast-paced environments, demonstrated by my excellent academic performance, extensive publication record, and multiple awards and fellowships. Finally, in my free time, I enjoy developing and executing data analytics and research projects using open-access and publicly available data. A selection of these projects is hosted on my GitHub: https://github.com/sfreis  
+
