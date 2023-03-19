@@ -22,12 +22,27 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Research & Statistics"
+  name = "Data Analytics & Statistics"
 
 [[feature]]
 icon = "fa-solid fa-brain"
 icon_pack = "fas"
 name = "Psychology & Behavioral Science"
+
+[[feature]]
+icon = "fa-solid fa-magnifying-glass"
+icon_pack = "fas"
+name = "Quantitative Research"
+
+[[feature]]
+icon = "fa-regular fa-pen-to-square"
+icon_pack = "fas"
+name = "Scientific Writing & Communication"
+
+[[feature]]
+icon = "fa-solid fa-dna"
+icon_pack = "fas"
+name = "Genetics"
 
 # Uncomment to use emoji icons.
 # [[feature]]
