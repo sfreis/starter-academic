@@ -28,7 +28,7 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: featured.jpg
+image: 'featured.jpg'
   caption: 'Phenotypic correlations with panel (A) and regression coefficients for panel (B) relationships between EFs, impulsivity, and a correlated factors model of psychopathology'
   focal_point: 'Smart'
   preview_only: false
