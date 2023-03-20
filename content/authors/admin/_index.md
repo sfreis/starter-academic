@@ -21,13 +21,8 @@ interests:
 - Individual Differences
 - Environmental Contexts
 - Geospatial Data Analysis & Methods
-- Lifespan Development
 - Cognition
-- Executive Functions 
-- Self Regulation
-- Psychopathology
-- Externalizing Behavior 
-- Substance Use
+- Mental Health
 - Higher Education & STEM Research Access & Equity
 
 education:
