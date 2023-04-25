@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:safr7809@colorado.edu  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/samfreis
+  link: https://www.linkedin.com/in/sfreis/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ynXWALIAAAAJ&hl=en
