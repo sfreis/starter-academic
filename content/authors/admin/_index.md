@@ -46,9 +46,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sfreis/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=ynXWALIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/sfreis
